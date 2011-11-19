@@ -34,8 +34,8 @@ Then push the repo upstream
 
 That's it, you can now checkout your application at (default admin account is admin/admin):
 
-    http://frogcms-$your_domain.rhcloud.com
-    http://frogcms-$your_domain.rhcloud.com/admin for FrogCMS Administration
+    http://frogcms-$yournamespace.rhcloud.com
+    http://frogcms-$yournamespace.rhcloud.com/admin for FrogCMS Administration
 
 
 NOTES:
