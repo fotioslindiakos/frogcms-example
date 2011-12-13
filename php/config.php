@@ -21,7 +21,7 @@ define('CHECK_UPDATES', true);
 define('CHECK_TIMEOUT', 3);
 
 // The full URL of your Frog CMS install
-define('URL_PUBLIC', 'http://' . $_ENV['OPENSHIFT_APP_DNS']);
+define('URL_PUBLIC', 'http://' . $_ENV['OPENSHIFT_APP_DNS'] . '/');
 
 // The directory name of your Frog CMS administration (you will need to change it manually)
 define('ADMIN_DIR', 'admin');
